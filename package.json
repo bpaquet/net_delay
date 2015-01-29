@@ -1,0 +1,10 @@
+{
+  "name": "net_delay",
+  "version": "0.0.1",
+  "dependencies" : {
+    "optimist": "0.6.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
