@@ -14,7 +14,7 @@ redis-cli -p 6379 info
 
 With delay :
 ````
-redis-cli -p 6379 info
+redis-cli -p 6380 info
 ````
 
 Net delay use a REPL, you can dynamically change the delay :
